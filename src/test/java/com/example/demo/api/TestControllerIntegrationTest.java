@@ -21,7 +21,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  */
 @SpringBootTest
 @AutoConfigureMockMvc
-class TestControllerTest {
+class TestControllerIntegrationTest {
 
     private static final String URL = "/v1/tests";
 
